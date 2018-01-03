@@ -55,7 +55,8 @@ h1, h2, h3 {
 
 .navbar-default .navbar-toggle {
     border: 2px solid #fff;
-    &:hover, &:focus {
+    &:hover, 
+    &:focus {
       background-color: #00c9ff;
     }
 }
